@@ -1,0 +1,59 @@
+﻿{
+    "model":  "faster-whisper-base",
+    "source":  "Systran/faster-whisper-base (MIT)",
+    "files":  {
+                  "config.json":  {
+                                      "size":  2309,
+                                      "sha256":  "56a6d8110d311f19c8f0471e562832c7527f146b567275bfca59fcf7c184da9a"
+                                  },
+                  "tokenizer.json":  {
+                                         "size":  2203239,
+                                         "sha256":  "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+                                     },
+                  "vocabulary.txt":  {
+                                         "size":  459861,
+                                         "sha256":  "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+                                     },
+                  "model.bin":  {
+                                    "size":  145217532,
+                                    "sha256":  "d01c3014881c9c6f3133c182f3d2887eb6ca1c789a7538c5c007196857a0a6a9",
+                                    "parts":  [
+                                                  {
+                                                      "name":  "model.bin.part00",
+                                                      "size":  20971520,
+                                                      "sha256":  "d3e89c5f7495c56b08ed18ad9107a1b4847d893f13e0475136b2de192ebad2d7"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part01",
+                                                      "size":  20971520,
+                                                      "sha256":  "b6a20c3882ebb8c93804c06b22e3d2610e5620d8c5c43d4fb66c8417be97239f"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part02",
+                                                      "size":  20971520,
+                                                      "sha256":  "a7adcde8fb089b3653e59ca51750afb6979bf6f5d9abb971a8c8b725201c526e"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part03",
+                                                      "size":  20971520,
+                                                      "sha256":  "329104e0760d6a6a02857fce7352733ebb59f8ae86b1ef75e69e142d4f12ab91"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part04",
+                                                      "size":  20971520,
+                                                      "sha256":  "bc0ec8145b1761fe5c905c23a8ab46e1c44d3424bf93798277579e415e13c4db"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part05",
+                                                      "size":  20971520,
+                                                      "sha256":  "05cbc4567cf074bf8914c61c93db2406cf0d0550ce5ef6a18c932d676079199f"
+                                                  },
+                                                  {
+                                                      "name":  "model.bin.part06",
+                                                      "size":  19388412,
+                                                      "sha256":  "aa614d8d0d92ac9f0be32c519ae2232d235c44dfd626abe7cbb43582322fce95"
+                                                  }
+                                              ]
+                                }
+              }
+}
